@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tomsnl.github.io
+title: Linux Verify
+tagline: Automated Server Hardening
+description: Insights and observations about Linux server hardening, security, application development, and fried egg sandwiches.
+paginate: 4
